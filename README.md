@@ -1,4 +1,4 @@
-Welcome to Glitch
+Welcome to the World of Ping Pong
 =================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.

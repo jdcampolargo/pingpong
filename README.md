@@ -1,7 +1,7 @@
 Welcome to the World of Ping Pong
 =================
 
-Where we don't play for money, we play in sockets!
+Where we don't play for money, we play in the sockets!
 
 This is a multiplayer ping pong game developed using JavaScript. 
 ------------

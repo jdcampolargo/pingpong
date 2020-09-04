@@ -3,7 +3,7 @@ Welcome to the World of Ping Pong
 
 Where we don't play for money, we play in the sockets!
 
-This is a multiplayer ping pong game developed using JavaScript. 
+This is a multiplayer ping pong game developed using JavaScript and HTML.
 ------------
 
 ### ← README.md
@@ -28,5 +28,6 @@ Drag in `assets`, like images or music, to add them to your project
 
 
 -------------------
+This game was developed during a program at Google during the summer of 2020.
 
 \ ゜o゜)ノ

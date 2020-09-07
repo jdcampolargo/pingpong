@@ -5,7 +5,8 @@ Where we don't play for money, we play in the sockets!
 
 This is a multiplayer ping pong game developed using JavaScript and HTML.
 
-I used sockets and a few other libraries such as socket.io
+I used sockets and a few other libraries such as socket.io for the multiplayer capability. 
+
 ------------
 
 ### ← README.md

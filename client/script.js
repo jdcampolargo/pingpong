@@ -1,6 +1,3 @@
-// Anna Wasson
-// Lab 4: Pong
-// 2-10-19
 
 // Random Ball Placement
 
